@@ -10,6 +10,8 @@ namespace PaymentContext.Tests
         public void TestMethod()
         {
             //var student = new Student();
+            var name = new Name("teste", "teste");
+
         }
     }
 
